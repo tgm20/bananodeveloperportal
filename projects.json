@@ -1,0 +1,87 @@
+[
+
+  {
+    "name": "JungleTV",
+    "language": "Javascript",
+    "github-url": "https://github.com/tnyim/jungletv",
+    "image": "https://avatars.githubusercontent.com/u/11375123?s=48&v=4",
+    "description": "JungleTV is a video sharing website for the Banano community."
+  },
+  {
+    "name": "Nault",
+    "language": "Typescript",
+    "github-url": "https://github.com/Nault/Nault",
+    "image": "https://avatars.githubusercontent.com/u/68386746?s=48&v=4",
+    "description": "Nault is a community-driven fork of the popular nano wallet NanoVault "
+  },
+  {
+    "name": "Vanity MonKey Generator",
+    "language": "C#",
+    "github-url": "https://github.com/altugbakan/vanity-monkey-generator",
+    "image": "https://avatars.githubusercontent.com/u/43248015?s=48&v=4",
+    "description": "Vanity MonKey generator for Banano cryptocurrency."
+  },
+  {
+    "name": "wban-dApp",
+    "language": "Typescript",
+    "github-url": "https://github.com/wBanano/wban-dApp",
+    "image": "https://avatars.githubusercontent.com/u/77458887?s=48&v=4",
+    "description": "This projet is part of a bigger one allowing to swap Banano crypto to wBAN (Wrapped Banano) on Binance Smart Chain, and vice-versa."
+  },
+  {
+    "name": "TheBananoStand",
+    "language": "Typescript",
+    "github-url": "https://github.com/dev-ptera/thebananostand",
+    "image": "https://avatars.githubusercontent.com/u/80925677?s=48&v=4",
+    "description": "TheBananoStand is a web-based Banano wallet - manage your favorite digital meme currency with ease!"
+  },
+  {
+    "name": "BoomPowGui",
+    "language": "C#",
+    "github-url": "https://github.com/mrexodia/BoomPowGui",
+    "image": "https://avatars.githubusercontent.com/u/2458265?s=48&v=4",
+    "description": "Simple C# GUI for BoomPow"
+  },
+  {
+    "name": "jungleVault",
+    "language": "Javascript",
+    "github-url": "https://github.com/Kaffidev/jungleVault",
+    "image": "https://avatars.githubusercontent.com/u/83032975?s=48&v=4",
+    "description": "jungleVault is a Banano wallet extension for Chromium based browsers."
+  },
+  {
+    "name": "Bananocraft",
+    "language": "Java",
+    "github-url": "https://github.com/Kirby1997/BananoCraft",
+    "image": "noimage.png",
+    "description": "Banano + Minecraft= Bananocraft"
+  },
+  {
+    "name": "Bananojs",
+    "language": "Javascript",
+    "github-url": "https://github.com/BananoCoin/bananojs",
+    "image": "noimage.png",
+    "description": "JavaScript utilities for the banano cryptocurrency."
+  },
+  {
+    "name": "Bananopie",
+    "language": "Python",
+    "github-url": "https://github.com/jetstream0/bananopie",
+    "image": "noimage.png",
+    "description": "Bananopie is a python library for the Banano cryptocurrency."
+  },
+  {
+    "name": "Banano reddit tipbot",
+    "language": "Python",
+    "github-url": "https://github.com/BananoCoin/banano_reddit_tipbot",
+    "image": "noimage.png",
+    "description": "Banano Reddit Tipbot is a reddit tipping service to easily give Banano to your favorite redditors"
+  },
+  {
+    "name": "Gobanano",
+    "language": "Go",
+    "github-url": "https://github.com/BananoCoin/gobanano",
+    "image": "noimage.png",
+    "description": "Gobanano is a low effort banano fork of the excellent gonano"
+  }
+]
