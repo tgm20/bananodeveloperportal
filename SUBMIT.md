@@ -7,3 +7,4 @@ In order to submit you will need to:
 In order for your pull request to be accepted you will have to follow the bellow terms
 1. Be opensource with a public github repo
 2. Use banano in your project
+3. Can not be an archive
