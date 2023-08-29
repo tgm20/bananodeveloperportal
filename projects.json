@@ -36,11 +36,39 @@
     "description": "TheBananoStand is a web-based Banano wallet - manage your favorite digital meme currency with ease!"
   },
   {
+    "name": "Banano Mint",
+    "language": "Javascript",
+    "github-url": "https://github.com/HelloMokuzai/banano-mint",
+    "image": "https://raw.githubusercontent.com/HelloMokuzai/banano-mint/main/images/Mint.png",
+    "description": "View, Send and Create NFTs on the BANANO cryptocurrency network!"
+  },
+  {
     "name": "BoomPowGui",
     "language": "C#",
     "github-url": "https://github.com/mrexodia/BoomPowGui",
     "image": "https://avatars.githubusercontent.com/u/2458265?s=48&v=4",
     "description": "Simple C# GUI for BoomPow"
+  },
+  {
+    "name": "Ban-Ad",
+    "language": "C#",
+    "github-url": "https://github.com/thearistotle2/ban-ad",
+    "image": "https://avatars.githubusercontent.com/u/108097732?s=48&v=4",
+    "description": "Banano-Powered Advertisements"
+  },
+  {
+    "name": "Banano NFT Client",
+    "language": "Javascript",
+    "github-url": "https://github.com/jetstream0/Banano-NFTs-Client",
+    "image": "noimage.png",
+    "description": "This is a WIP implementation of the Banano NFT protocol"
+  },
+  {
+    "name": "Banano Hub",
+    "language": "Javascript",
+    "github-url": "https://github.com/HelloMokuzai/banano-hub",
+    "image": "https://raw.githubusercontent.com/HelloMokuzai/banano-hub/main/images/banhub.png",
+    "description": "Banano HUB | The FREE information repository for monkeys using BANANO"
   },
   {
     "name": "jungleVault",
