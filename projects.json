@@ -119,4 +119,11 @@
     "image": "https://bananospace.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBananoSpacelogo.838fff61.png&w=3840&q=75",
     "description": "A social media site for monkeys to share their thoughts and get tipped!"
   },
+      {
+    "name": "FaucetHut",
+    "language": "Python",
+    "github-url": "https://github.com/TrooperZ/FaucetHut/",
+    "image": "https://cryptologos.cc/logos/banano-ban-logo.svg?v=023",
+    "description": "A list of all faucets for banano."
+  },
 ]
