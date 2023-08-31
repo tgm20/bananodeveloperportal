@@ -111,5 +111,12 @@
     "github-url": "https://github.com/BananoCoin/gobanano",
     "image": "noimage.png",
     "description": "Gobanano is a low effort banano fork of the excellent gonano"
-  }
+  },
+    {
+    "name": "BananoSpace",
+    "language": "TypeScript",
+    "github-url": "https://github.com/TrooperZ/BananoSpace",
+    "image": "https://bananospace.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FBananoSpacelogo.838fff61.png&w=3840&q=75",
+    "description": "A social media site for monkeys to share their thoughts and get tipped!"
+  },
 ]
