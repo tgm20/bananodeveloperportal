@@ -112,7 +112,7 @@
     "image": "noimage.png",
     "description": "Gobanano is a low effort banano fork of the excellent gonano"
   },
-    {
+  {
     "name": "BananoSpace",
     "language": "TypeScript",
     "github-url": "https://github.com/TrooperZ/BananoSpace",
@@ -125,5 +125,5 @@
     "github-url": "https://github.com/TrooperZ/FaucetHut/",
     "image": "https://cryptologos.cc/logos/banano-ban-logo.svg?v=023",
     "description": "A list of all faucets for banano."
-  },
+  }
 ]
